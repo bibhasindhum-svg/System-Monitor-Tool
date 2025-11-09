@@ -26,7 +26,7 @@ How to Run
 sudo apt update && sudo apt install build-essential -y
 2.Clone this repository
 
-git clone []
+git clone [(https://github.com/bibhasindhum-svg/System-Monitor-Tool/tree/main)]
 cd system-monitor-tool
 3.Build the project
 
